@@ -3,7 +3,7 @@ layout: default
 title: Fridgerio
 ---
 
-# Fridgerio — Legal
+# Fridgerio
 
-- [Privacy Policy](privacy-policy)
-- [Terms of Service](terms-of-service)
+- [Privacy Policy]({{ site.baseurl }}/privacy)
+- [Terms of Service]({{ site.baseurl }}/terms)
